@@ -28,6 +28,14 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 
 > Google Cybersecurity Professional Certificate.
 > ![Google_cert](CourseraUR4GA7FXSSLF.png)
+
+> - Gained an understanding of key cybersecurity concepts like the CIA triad (confidentiality, integrity, availability).
+> - Learned how to identify and manage security risks, applying best practices to protect systems.
+> - Configured network security settings and practiced defending networks from intrusions.
+> - Worked with Linux for file management and user administration, using Bash commands.
+> - Used SQL to query databases for security purposes, such as analyzing login data.
+> - Detected incidents by analyzing network traffic and using tools like IDS and SIEM for incident response.
+> - Automated security tasks with Python, including scripting for log analysis and threat detection.
 > Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
 
 > TryHackMe Jr. Penetration Tester.
