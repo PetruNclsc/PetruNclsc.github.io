@@ -36,7 +36,7 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - Used SQL to query databases for security purposes, such as analyzing login data.
 > - Detected incidents by analyzing network traffic and using tools like IDS and SIEM for incident response.
 > - Automated security tasks with Python, including scripting for log analysis and threat detection.
->> Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
+>> **Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.**
 
 > TryHackMe Jr. Penetration Tester.
 > ![TryHackMe_cert](THM-FN1WGOGQUZ.png)
@@ -46,4 +46,7 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - Privilege Escalation: Hands-on labs focused on escalating privileges in both Linux (e.g., SUID misconfigurations, cron jobs) and Windows (e.g., registry manipulation, exploiting weak permissions).
 > - Post-Exploitation: Techniques such as capturing flags, reading sensitive files, and persistence mechanisms after gaining access to a system.
 > - File Inclusion Vulnerabilities: Exercises on exploiting file inclusion issues, bypassing filters, and capturing flags through directory traversal and null byte injections.
->> Skills learned: Linux, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SQL Injections, SSRF, IDOR, NIST CSF, Security Awareness, Reconnaissance, OSint, Windows Registry, Powershell, Kali Linux
+>> **Linux, Intrusion Detection, SQL Injections, Python (Basics), Bash, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SSRF, IDOR, Reconnaissance, OSINT, Windows Registry, Powershell, Kali Linux, Wireshark, Virtual Machines.**
+
+
+Skills learned: Linux, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SQL Injections, SSRF, IDOR, NIST CSF, Security Awareness, Reconnaissance, OSint, Windows Registry, Powershell, Kali Linux
