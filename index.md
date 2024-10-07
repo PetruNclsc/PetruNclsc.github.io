@@ -10,8 +10,8 @@ I am a young aspiring Penetration Tester & Cyber Security student looking for an
 
 # My experience
 
-While I do lack professional experience in the technical world of Cyber Security, I have gone through countless labs simulating real world environments and vulnerabilities whether it is Blue team activities  in the Google Cybersecurity Certificate or Offensive security with the TryHackMe Jr. Penetration Tester Certification.
-Also I have learned a lot of key non-technical skills during my 6 month experience as a GRC Consultant at MonetiseMe.co that I am more than ready to transfer to protect **your organisation**.
+While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification.
+I have also acquired a lot of key non-technical skills during my 6 month experience as a GRC Consultant at MonetiseMe.co that I am more than ready to transfer to protect **your organisation**.
 
 
 ## Header 2
