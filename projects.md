@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[My linkedin](https://www.linkedin.com/in/petru-niculescu/).
+[Home](./index).
 
-I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
+
 
 # My experience
 
