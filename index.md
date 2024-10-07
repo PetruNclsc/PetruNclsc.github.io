@@ -36,7 +36,7 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - Used SQL to query databases for security purposes, such as analyzing login data.
 > - Detected incidents by analyzing network traffic and using tools like IDS and SIEM for incident response.
 > - Automated security tasks with Python, including scripting for log analysis and threat detection.
-> Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
+>> Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
 
 > TryHackMe Jr. Penetration Tester.
 > ![TryHackMe_cert](THM-FN1WGOGQUZ.png)
