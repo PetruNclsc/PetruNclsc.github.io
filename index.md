@@ -48,5 +48,3 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - File Inclusion Vulnerabilities: Exercises on exploiting file inclusion issues, bypassing filters, and capturing flags through directory traversal and null byte injections.
 >> **Linux, Intrusion Detection, SQL Injections, Python (Basics), Bash, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SSRF, IDOR, Reconnaissance, OSINT, Windows Registry, Powershell, Kali Linux, Wireshark, Virtual Machines.**
 
-
-Skills learned: Linux, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SQL Injections, SSRF, IDOR, NIST CSF, Security Awareness, Reconnaissance, OSint, Windows Registry, Powershell, Kali Linux
