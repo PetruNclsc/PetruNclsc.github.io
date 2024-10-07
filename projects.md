@@ -8,7 +8,25 @@ layout: default
 
 # Projects
 
-> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2459022" style='border:none;'></iframe>
+> <script>
+  fetch('https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2459022')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not OK');
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Process and display the data
+      document.getElementById('profile').innerHTML = `<h3>${data.username}'s Profile</h3>`;
+    })
+    .catch(error => {
+      console.error('There was a problem with the fetch operation:', error);
+    });
+</script>
+
+<div id="profile"></div>
+
 >
 >
 
