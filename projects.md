@@ -8,7 +8,7 @@ layout: default
 
 # Projects
 
-> My TryHackMe account (badges, completed rooms, level, rank)
+> - My TryHackMe account (badges, completed rooms, level, rank)
 > <img src="https://tryhackme-badges.s3.amazonaws.com/wpetru.png" alt="TryHackMe status" />
 > - _github won't let me display my iframe thm badge so this badge might not be updated. Please visit [my TryHackMe page](https://tryhackme.com/r/p/wpetru) in order to see my badges, etc..._
 
