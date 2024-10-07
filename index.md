@@ -12,7 +12,7 @@ I am a young aspiring Penetration Tester & Cyber Security student looking for an
 
 MonetiseMe.co 
 
-2/2024-7/2024
+2/2024 - 7/2024
 
 Governance, Risk, and Compliance (GRC) consultant (part-time)
 
