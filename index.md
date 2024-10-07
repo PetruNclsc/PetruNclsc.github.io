@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
 
 # Header 1
 
