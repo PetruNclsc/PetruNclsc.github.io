@@ -8,7 +8,7 @@ I am a young aspiring Penetration Tester & Cyber Security student looking for an
 
 # Work experience
 
-### MonetiseMe.co
+### MonetiseMe.co 2/2024-7/2024
 
 #### Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - Ensured the company followed cybersecurity standards, keeping our systems and data secure while meeting compliance requirements. (GDPR, PCI DSS ,..)
