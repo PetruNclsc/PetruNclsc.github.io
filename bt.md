@@ -8,6 +8,7 @@ layout: default
 
 IBM Microsoft Windows Defender for Beginners - 10/2023 
 Configuring and updating Microsoft Windows Defender, Enabling and configuring Microsoft Firewall 
+![IBM Microsoft Windows Defender for Beginners](./crt_ibm.pdf)
 
 Analyze Network Traffic with TCPDump - 10/2023 
 Utilized TCPDump to capture Network Traffic, Analyzed Network Traffic
