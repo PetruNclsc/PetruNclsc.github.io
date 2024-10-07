@@ -40,4 +40,10 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 
 > TryHackMe Jr. Penetration Tester.
 > ![TryHackMe_cert](THM-FN1WGOGQUZ.png)
-> Skills learned: Linux, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SQL Injections, SSRF, IDOR, NIST CSF, Security Awareness, Reconnaissance, OSint, Windows Registry, Powershell, Kali Linux
+> - Reconnaissance and Enumeration: Techniques like scanning and information gathering using tools such as Nmap to map open ports, services, and vulnerabilities.
+> - Web Application Security: Exploiting common vulnerabilities such as file inclusion (Local File Inclusion - LFI, Remote File Inclusion - RFI), cross-site scripting (XSS), and SQL injections.
+> - Exploitation: Practical exercises involving attacking both Linux and Windows machines, focusing on vulnerabilities like misconfigurations and unpatched systems.
+> - Privilege Escalation: Hands-on labs focused on escalating privileges in both Linux (e.g., SUID misconfigurations, cron jobs) and Windows (e.g., registry manipulation, exploiting weak permissions).
+> - Post-Exploitation: Techniques such as capturing flags, reading sensitive files, and persistence mechanisms after gaining access to a system.
+> - File Inclusion Vulnerabilities: Exercises on exploiting file inclusion issues, bypassing filters, and capturing flags through directory traversal and null byte injections.
+>> Skills learned: Linux, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SQL Injections, SSRF, IDOR, NIST CSF, Security Awareness, Reconnaissance, OSint, Windows Registry, Powershell, Kali Linux
