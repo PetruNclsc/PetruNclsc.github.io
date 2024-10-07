@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./index).
+[Home](./index)
 
 # My Blue Team projects and experience
 
