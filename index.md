@@ -46,5 +46,5 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - Privilege Escalation: Hands-on labs focused on escalating privileges in both Linux (e.g., SUID misconfigurations, cron jobs) and Windows (e.g., registry manipulation, exploiting weak permissions).
 > - Post-Exploitation: Techniques such as capturing flags, reading sensitive files, and persistence mechanisms after gaining access to a system.
 > - File Inclusion Vulnerabilities: Exercises on exploiting file inclusion issues, bypassing filters, and capturing flags through directory traversal and null byte injections.
->> **Linux, Intrusion Detection, SQL Injections, Python (Basics), Bash, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SSRF, IDOR, Reconnaissance, OSINT, Windows Registry, Powershell, Kali Linux, Wireshark, Virtual Machines.**
+>> **Skills learned: Linux, Intrusion Detection, SQL Injections, Python (Basics), Bash, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SSRF, IDOR, Reconnaissance, OSINT, Windows Registry, Powershell, Kali Linux, Wireshark, Virtual Machines.**
 
