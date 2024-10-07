@@ -6,19 +6,17 @@ layout: default
 
 
 
-# My experience
+# Projects
 
-I have acquired key non-technical skills during my 6 month experience as a GRC Consultant at MonetiseMe.co that I am more than ready to transfer to protect **your organisation**.
-
-While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification.
+test
 
 [More Projects](./bt)
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Wireshark for Beginners : Capture Packets.
+> ![Wireshark_cert](THM-FN1WGOGQUZ.png)
+> Installed Wireshark on Ubuntu,Utilized Wireshark to analyze HTTP/S and RDP traffic, and used a display filter to detect IP Addresses in packets. 
 
 ### Header 3
 
