@@ -14,10 +14,10 @@ While I do lack experience in the **technical** world of Cyber Security, I have 
 
 [More Projects](./bt)
 
-## Header 2
+## Certifications
 
-> This is a blockquote following a header.
->
+> Google Cybersecurity Professional Certificate.
+> ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
