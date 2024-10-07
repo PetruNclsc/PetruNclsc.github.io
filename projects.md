@@ -8,12 +8,6 @@ layout: default
 
 # Projects
 
-test
-
-[More Projects](./bt)
-
-## Header 2
-
 > Mastercard Cybersecurity virtual experience program on Forage
 > ![Mastercard_cert](vcKAB5yYAgvemepGQ_Mastercard_buW5gkjHuhoE7pWK4_1702477946596_completion_certificate.png)
 > - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
