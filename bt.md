@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 [Home](./index).
 
-Blue Team Experience
-
-# My projects and experience
+# My Blue Team projects and experience
 
 IBM Microsoft Windows Defender for Beginners - 10/2023 
 Configuring and updating Microsoft Windows Defender, Enabling and configuring Microsoft Firewall 
