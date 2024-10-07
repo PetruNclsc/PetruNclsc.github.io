@@ -4,18 +4,20 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to my linkedin](https://www.linkedin.com/in/petru-niculescu/).
+[Home](./index).
 
-I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
+Blue Team Experience
 
-# My experience
+# My projects and experience
 
-I have acquired key non-technical skills during my 6 month experience as a GRC Consultant at MonetiseMe.co that I am more than ready to transfer to protect **your organisation**.
+IBM Microsoft Windows Defender for Beginners - 10/2023 
+Configuring and updating Microsoft Windows Defender, Enabling and configuring Microsoft Firewall 
 
-While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification.
+Analyze Network Traffic with TCPDump - 10/2023 
+Utilized TCPDump to capture Network Traffic, Analyzed Network Traffic
 
-[Blue Team Experience](./bt)
-[Red Team Experience](./rt)
+Wireshark for Beginners - 10/2023 
+Installed Wireshark on Ubuntu,Utilized Wireshark to analyze HTTP/S and RDP traffic, and used a display filter to detect IP Addresses in packets. 
 
 ## Header 2
 
