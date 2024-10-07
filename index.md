@@ -11,8 +11,8 @@ I am a young aspiring Penetration Tester & Cyber Security student looking for an
 ### MonetiseMe.co
 
 #### Governance, Risk, and Compliance (GRC) consultant (part-time)
->>Ensured the company followed cybersecurity standards, keeping our systems and data secure while meeting compliance requirements. (GDPR, PCI DSS ,..)
->>Oversaw legal and cybersecurity aspects, implementing guidance and controls to guarantee safe handling of sensitive information and full regulatory compliance.
+> - Ensured the company followed cybersecurity standards, keeping our systems and data secure while meeting compliance requirements. (GDPR, PCI DSS ,..)
+> - Oversaw legal and cybersecurity aspects, implementing guidance and controls to guarantee safe handling of sensitive information and full regulatory compliance.
 
 
 > While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification.
