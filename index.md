@@ -12,8 +12,7 @@ I have acquired key non-technical skills during my 6 month experience as a GRC C
 
 While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification.
 
-[Blue Team Experience](./bt)
-[Red Team Experience](./rt)
+[More Projects](./bt)
 
 ## Header 2
 
