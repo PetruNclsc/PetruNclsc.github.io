@@ -20,7 +20,7 @@ Governance, Risk, and Compliance (GRC) consultant (part-time)
 > - Oversaw legal and cybersecurity aspects, implementing guidance and controls to guarantee safe handling of sensitive information and full regulatory compliance.
 
 
-> _While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification._
+> _While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team or recently in Offensive security._
 
 [More Projects and hands-on experience](./projects)
 
