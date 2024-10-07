@@ -6,13 +6,13 @@ layout: default
 
 I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
 
-# My experience
+# Work experience
 
 I have acquired key non-technical skills during my 6 month experience as a GRC Consultant at MonetiseMe.co that I am more than ready to transfer to protect **your organisation**.
 
 While I do lack experience in the **technical** world of Cyber Security, I have gone through countless labs simulating real-world environments whether it is being in the Blue Team in the Google Cybersecurity Certificate or in Offensive security with the TryHackMe Jr. Penetration Tester Certification.
 
-[More Projects](./bt)
+[More Projects](./projects)
 
 ## Certifications
 
