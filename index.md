@@ -8,9 +8,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
 
-# Header 1
+# My experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+While I do lack professional experience in the technical world of Cyber Security, I have gone through countless labs simulating real world environments and vulnerabilities whether it is Blue team activities  in the Google Cybersecurity Certificate or Offensive security with the TryHackMe Jr. Penetration Tester Certification.
+Also I have learned a lot of key non-technical skills during my 6 month experience as a GRC Consultant at MonetiseMe.co that I am more than ready to transfer to protect **your organisation**.
+
 
 ## Header 2
 
