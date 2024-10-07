@@ -21,8 +21,8 @@ While I do lack experience in the **technical** world of Cyber Security, I have 
 > Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
 
 > TryHackMe Jr. Penetration Tester.
-> ![TryHackMe_cert](CourseraUR4GA7FXSSLF.png)
-> Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
+> ![TryHackMe_cert](THM-FN1WGOGQUZ.png)
+> Skills learned: Linux, Metasploit Framework, msfvenom, Burp Suite, nmap, XSS, SQL Injections, SSRF, IDOR, NIST CSF, Security Awareness, Reconnaissance, OSint, Windows Registry, Powershell, Kali Linux
 
 ### Header 3
 
