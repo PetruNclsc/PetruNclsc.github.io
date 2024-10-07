@@ -8,6 +8,11 @@ layout: default
 
 # Projects
 
+> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2459022" style='border:none;'></iframe>
+>
+>
+
+
 > Mastercard Cybersecurity virtual experience program on Forage
 > ![Mastercard_cert](vcKAB5yYAgvemepGQ_Mastercard_buW5gkjHuhoE7pWK4_1702477946596_completion_certificate.png)
 > - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
