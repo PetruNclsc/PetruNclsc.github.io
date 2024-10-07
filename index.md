@@ -14,10 +14,14 @@ While I do lack experience in the **technical** world of Cyber Security, I have 
 
 [More Projects](./bt)
 
-# Certifications
+## Certifications
 
 > Google Cybersecurity Professional Certificate.
 > ![Google_cert](CourseraUR4GA7FXSSLF.png)
+> Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
+
+> TryHackMe Jr. Penetration Tester.
+> ![TryHackMe_cert](CourseraUR4GA7FXSSLF.png)
 > Skills learned: Linux, Intrusion Detection, SQL (Basics), Python (Basics) CLI, SIEM, Audits, Bash, Incident Response, NIST CSF, RMF.
 
 ### Header 3
