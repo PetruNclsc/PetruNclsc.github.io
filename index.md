@@ -17,7 +17,7 @@ While I do lack experience in the **technical** world of Cyber Security, I have 
 ## Certifications
 
 > Google Cybersecurity Professional Certificate.
-> ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+> ![Google_cert](CourseraUR4GA7FXSSLF.png)
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
