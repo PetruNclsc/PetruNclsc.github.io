@@ -14,7 +14,7 @@ While I do lack experience in the **technical** world of Cyber Security, I have 
 
 [More Projects](./bt)
 
-## Certifications
+# Certifications
 
 > Google Cybersecurity Professional Certificate.
 > ![Google_cert](CourseraUR4GA7FXSSLF.png)
