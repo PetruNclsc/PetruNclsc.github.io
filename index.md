@@ -6,8 +6,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to my linkedin](https://www.linkedin.com/in/petru-niculescu/).
 
-There should be whitespace between paragraphs.
-
 I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
 
 # Header 1
