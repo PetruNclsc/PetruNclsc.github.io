@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 [Link to my linkedin](https://www.linkedin.com/in/petru-niculescu/).
 
 I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
@@ -116,6 +114,8 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
