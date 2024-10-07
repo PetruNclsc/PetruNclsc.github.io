@@ -15,8 +15,16 @@ test
 ## Header 2
 
 > Wireshark for Beginners : Capture Packets.
-> ![Wireshark_cert](THM-FN1WGOGQUZ.png)
-> Installed Wireshark on Ubuntu,Utilized Wireshark to analyze HTTP/S and RDP traffic, and used a display filter to detect IP Addresses in packets. 
+> ![Wireshark_cert](Coursera5WPW4VE27Z6G.png)
+> Installed Wireshark on Ubuntu,Utilized Wireshark to analyze HTTP/S and RDP traffic, and used a display filter to detect IP Addresses in packets.
+
+> Microsoft Windows Defender for Beginners.
+> ![IBM_cert](CourseraKE36EJGEJMU2.png)
+> Configuring and updating Microsoft Windows Defender, Enabling and configuring Microsoft Firewall .
+
+> Analyze Network Traffic with TCPDump.
+> ![TCPDump_cert](CourseraAAVU25Z6APJ2.png)
+> Utilized TCPDump to capture Network Traffic, Analyzed Network Traffic, created shell scripts to capture, filter and log capture. 
 
 ### Header 3
 
