@@ -2,7 +2,7 @@
 layout: default
 ---
 [My CV](https://drive.google.com/file/d/1AiyWja4yISEcR3mKJ0NjBJVHH4stVSC1/view?usp=sharing) /
-[My CV (Europass format)](...) /
+[My CV (Europass format)](https://drive.google.com/file/d/1nzmwqNl6GU8W8GGtugMxyklBAR01hIZp/view?usp=sharing) /
 [My linkedin](https://www.linkedin.com/in/petru-niculescu/)
 
 
