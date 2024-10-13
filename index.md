@@ -6,7 +6,7 @@ layout: default
 [My linkedin](https://www.linkedin.com/in/petru-niculescu/)
 
 
-I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis.
+I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC) & Cyber Analysis, Systems Administrator or IT Helpdesk.
 
 # Work experience
 
