@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+# This website is currently under maintenance, so are my cv's. Contact me at petruniculescu@proton.me for any inquiries.
+
 [My CV]() /
 [My CV (Europass format)]() /
 [My linkedin](https://www.linkedin.com/in/petru-niculescu/)
