@@ -2,13 +2,6 @@
 layout: default
 ---
 
-# This website is currently under maintenance, so are my cv's. Contact me at petruniculescu@proton.me for any inquiries.
-
-[My CV]() /
-[My CV (Europass format)]() /
-[My linkedin](https://www.linkedin.com/in/petru-niculescu/)
-
-
 I am a young aspiring Penetration Tester & Cyber Security student looking for an internship or Junior role in Penetration testing, Governance, Risk, Compliance (GRC), Cyber Analysis, Systems Administrator or IT Helpdesk.
 
 # Work experience
